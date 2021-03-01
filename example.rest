@@ -1,0 +1,9 @@
+GET http://localhost:1337/posts?_sort=published_at:desc
+
+###
+
+GET http://localhost:1337/posts/1
+
+###
+
+GET http://localhost:1337/author
